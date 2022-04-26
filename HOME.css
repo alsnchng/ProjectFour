@@ -1,0 +1,94 @@
+body{
+	margin: 100px;
+}
+
+.F1{   
+  font-family: new-spirit, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.F2{
+  font-family: new-spirit, serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.F3{
+  font-family: source-code-pro, monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.B1 {
+    background-color:transparent;
+    border-radius:25px;
+    border:2px solid seashell;
+    display:inline-block;
+    cursor:pointer;
+    color:seashell;
+    font-size:18px;
+    padding:3px 10px;
+    margin: -50px 20px 50px 0px;
+    float: right;
+    text-decoration:none;
+}
+.B1:hover {
+    background-color:seashell;
+    color: blue;
+}
+.B1:active {
+    position:relative;
+}
+
+.B2 {
+    background-color:transparent;
+    border-radius:25px;
+    border:2px solid seashell;
+    display:inline-block;
+    cursor:pointer;
+    color:seashell;
+    font-size:18px;
+    padding:3px 10px;
+    margin: -50px 20px 50px 0px;
+    float: right;
+    text-decoration:none;
+}
+.B2:hover {
+    background-color: seashell;
+    color: blue;
+}
+.B2:active {
+    position:relative;
+}
+
+.B3 {
+    background-color:transparent;
+    border-radius:25px;
+    border:2px solid seashell;
+    display:inline-block;
+    cursor:pointer;
+    color:seashell;
+    font-size:18px;
+    padding:3px 10px;
+    margin: -50px 20px 50px 0px;
+    float: right;
+    text-decoration:none;
+}
+.B3:hover {
+    background-color:seashell;
+    color: blue;
+}
+.B3:active {
+    position:relative;
+}
+
+.header{
+  font-family: new-spirit, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    line-height: 1;
+    text-align: justify;
+    padding-top: 50px;
+    color: seashell;
+}

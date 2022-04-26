@@ -1,0 +1,133 @@
+body{
+	margin: 100px;
+}
+
+.F1{   
+  font-family: new-spirit, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.F2{
+  font-family: new-spirit, serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.F3{
+  font-family: source-code-pro, monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.B1 {
+    background-color:transparent;
+    border-radius:25px;
+    border:2px solid blue;
+    display:inline-block;
+    cursor:pointer;
+    color:blue;
+    font-size:18px;
+    padding:3px 10px;
+    margin: -50px 20px 50px 0px;
+    float: right;
+    text-decoration:none;
+}
+.B1:hover {
+    background-color:blue;
+    color: seashell;
+}
+.B1:active {
+    position:relative;
+}
+
+.B2 {
+    background-color:transparent;
+    border-radius:25px;
+    border:2px solid blue;
+    display:inline-block;
+    cursor:pointer;
+    color:blue;
+    font-size:18px;
+    padding:3px 10px;
+    margin: -50px 20px 50px 0px;
+    float: right;
+    text-decoration:none;
+}
+.B2:hover {
+    background-color: blue;
+    color: seashell;
+}
+.B2:active {
+    position:relative;
+}
+
+.B3 {
+    background-color:transparent;
+    border-radius:25px;
+    border:2px solid blue;
+    display:inline-block;
+    cursor:pointer;
+    color:blue;
+    font-size:18px;
+    padding:3px 10px;
+    margin: -50px 20px 50px 0px;
+    float: right;
+    text-decoration:none;
+}
+.B3:hover {
+    background-color:blue;
+    color: seashell;
+}
+.B3:active {
+    position:relative;
+}
+
+.project{
+	background: seashell;
+	border: 2px solid blue;
+	border-radius: 30px;
+	padding: 30px;
+	padding-top: 0px;
+	margin: 30px;
+	margin-left: 20px;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img{
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.header{
+	font-family: new-spirit, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100px;
+    color: blue;
+}
+
+.body{
+	font-family: source-code-pro, monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    color: blue;
+}
+
+.body2{
+	font-family: source-code-pro, monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    text-align: justify;
+    color: blue;
+}
+
+.container{
+    display: inline-grid;
+    grid-template-columns: lfr lfr lfr;
+}
